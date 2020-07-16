@@ -1,1 +1,1 @@
-Learning [https://www.rust-lang.org/](Rust).
+Learning [Rust](https://www.rust-lang.org/).
